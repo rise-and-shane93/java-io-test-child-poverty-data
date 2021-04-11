@@ -1,5 +1,0 @@
-01 00190 Alabaster City School District                                              31754     6475      733 USSD13.txt 24NOV2014  
-01 00005 Albertville City School District                                            21522     4010     1563 USSD13.txt 24NOV2014  
-01 00030 Alexander City City School District                                         17292     2719     1158 USSD13.txt 24NOV2014  
-01 00060 Andalusia City School District                                               9044     1512      471 USSD13.txt 24NOV2014  
-01 00090 Anniston City School District                                               22759     3304     1122 USSD13.txt 24NOV2014  

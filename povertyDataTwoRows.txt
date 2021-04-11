@@ -1,0 +1,3 @@
+01 00190 Alabaster City School District                                              31754     6475      733 USSD13.txt 24NOV2014  
+02 00050 Alaska Gateway School District                                               2332      403       82 USSD13.txt 24NOV2014  
+04 00450 Agua Fria Union High School District                                       126808     7829     1149 USSD13.txt 24NOV2014  
