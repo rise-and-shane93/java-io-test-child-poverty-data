@@ -1,3 +1,0 @@
-State    Population   Child Population  Child Poverty Population     % Child Poverty 
------    ----------   ----------------  ------------------------     --------------- 
-    1       4833722             814377                    205023               25.18 
